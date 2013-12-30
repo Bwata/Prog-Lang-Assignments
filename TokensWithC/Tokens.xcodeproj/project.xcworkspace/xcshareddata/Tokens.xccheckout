@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FE30CF4C-6766-40A1-A20F-1C1B83DD1D63</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Tokens</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1B2F169A-7D05-4C1D-BF43-40D5CE6B21E3</key>
+		<string>https://github.com/Bwata/Prog-Lang-Assignments.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TokensWithC/Tokens.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1B2F169A-7D05-4C1D-BF43-40D5CE6B21E3</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Bwata/Prog-Lang-Assignments.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1B2F169A-7D05-4C1D-BF43-40D5CE6B21E3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1B2F169A-7D05-4C1D-BF43-40D5CE6B21E3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ProgLangAssignments</string>
+		</dict>
+	</array>
+</dict>
+</plist>
